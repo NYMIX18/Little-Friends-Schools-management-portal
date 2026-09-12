@@ -1,0 +1,18 @@
+# Local DB credentials — never commit real credentials
+config/db.php
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Dependency dirs (if you add Composer/npm later)
+vendor/
+node_modules/
