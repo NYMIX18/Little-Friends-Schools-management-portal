@@ -111,9 +111,7 @@ following core tables (adjust to match your actual schema):
 - `marks` (id, student_id, subject_id, teacher_id, term_id, score, grade, exam_type, level, created_at)
 - `notifications`, `newsletters` (optional)
 
-> ⚠️ A full SQL dump/migration file isn't included yet — if you have one
-> from your local setup, add it here as `schema.sql` so new setups can
-> import it directly with `mysql -u root little_friends_schools < schema.sql`.
+> ⚠️ A full SQL dump/migration file isn't included yet for security reasons since its an actively working website. Permission acquired first before commits
 
 ### 4. Serve the app
 Using PHP's built-in server (from the project root):
