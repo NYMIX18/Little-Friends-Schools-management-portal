@@ -6,8 +6,8 @@ role-based portal for admins, teachers, students, and parents — including
 mark entry, auto-generated report cards, fee tracking, and inventory
 management.
 
-> Built as a single-repo PHP app (no framework) — designed to run on a
-> standard LAMP/WAMP/XAMPP stack.
+> Run it on local host
+> 
 
 ---
 
